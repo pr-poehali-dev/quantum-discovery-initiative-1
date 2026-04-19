@@ -11,16 +11,16 @@ export function ApplicationsTimeline() {
             Каждый набор упакован в фирменную коробку с логотипом вашей компании.
           </p>
           <div className="space-y-3">
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               Подарочные наборы для партнёров и клиентов
             </div>
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               Новогодние и праздничные комплекты
             </div>
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               Именные подарки с гравировкой
             </div>
           </div>
@@ -36,16 +36,16 @@ export function ApplicationsTimeline() {
             Поможем выделиться среди конкурентов и запомниться клиентам.
           </p>
           <div className="space-y-3">
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               Брендированный мерч для мероприятий
             </div>
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               POS-материалы и рекламная продукция
             </div>
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               Сувениры для розыгрышей и акций
             </div>
           </div>
@@ -61,16 +61,16 @@ export function ApplicationsTimeline() {
             и интернет-продаж. От эскиза до готовой партии товара.
           </p>
           <div className="space-y-3">
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               Тематические городские сувениры
             </div>
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               Коллекционные и лимитированные серии
             </div>
-            <div className="flex items-center gap-3 text-red-400 text-sm">
-              <div className="w-2 h-2 bg-red-500 rounded-full"></div>
+            <div className="flex items-center gap-3 text-green-400 text-sm">
+              <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               Разработка дизайна с нуля
             </div>
           </div>
